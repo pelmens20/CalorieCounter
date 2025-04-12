@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="forest_green">#FF2E7D32</color>
+    <color name="deep_forest">#FF1B5E20</color>
+    <color name="ivory_white">#FFF5F5F5</color>
+    <color name="sun_gold">#FFFB8C00</color>
+    <color name="amber_glow">#FFFFA000</color>
+    <color name="midnight_black">#FF212121</color>
+    <color name="error_red">#FFB00020</color>
+</resources>

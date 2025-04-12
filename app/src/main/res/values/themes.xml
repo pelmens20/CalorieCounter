@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- Запасная тема для AndroidManifest -->
+        <style name="Theme.SlavicFeast" parent="android:Theme.Material3.DayNight.NoActionBar" />
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Славянский Пир</string>
+    <string name="login_title">Вход в Чертоги Перуна</string>
+    <string name="login_name_label">Имя воина</string>
+    <string name="login_password_label">Ключ от чертога</string>
+    <string name="login_button">Войти в пир</string>
+    <string name="main_title">Пир у Родного Огня</string>
+    <string name="weight_label">Сила тела (Вес, кг)</string>
+    <string name="height_label">Рост Леса (См)</string>
+    <string name="bmi_button">Измерить мощь</string>
+    <string name="bmi_result">Мощь тела: %s</string>
+    <string name="food_label">Дары земли</string>
+    <string name="food_weight_label">Вес даров (г)</string>
+    <string name="add_food_button">Принести к столу</string>
+    <string name="barcode_button">Взгляд Ящера</string>
+    <string name="barcode_title">Око Даждьбога</string>
+    <string name="barcode_result">Яство: %s</string>
+    <string name="barcode_calories">Сила даров (на 100г): %s ккал</string>
+    <string name="barcode_add_button">Добавить к пиру</string>
+    <string name="error_message">Зов Велеса: %s</string>
+    <string name="calories_total">Сила пира: %s ккал</string>
+    <string name="history_button">Летопись пиров</string>
+    <string name="history_title">Сказы о пирах</string>
+    <string name="history_back_button">Вернуться к огню</string>
+</resources>
